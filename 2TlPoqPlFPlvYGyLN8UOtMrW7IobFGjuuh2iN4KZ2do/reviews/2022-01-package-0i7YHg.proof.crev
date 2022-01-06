@@ -41,3 +41,25 @@ review:
 gI48UQ9VnKNLuBK1rZrDGwq_ilRhqTDJK8NiqCYrxyZMpILfDmXDY9ZapFsUfmnFEavS-vR3Q8uFehCMnB-kCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-06T18:45:17.379013017+01:00"
+from:
+  id-type: crev
+  id: 2TlPoqPlFPlvYGyLN8UOtMrW7IobFGjuuh2iN4KZ2do
+  url: "https://github.com/samueltardieu/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: itertools
+  version: 0.10.1
+  revision: 20c09bd4fed037fa3df6f2a6a1e717b01be89f11
+  digest: NKZrSyjImBoEypC-Vm63MyPTsifDlgH2oZPqsQ5kleI
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+----- SIGN CREV PROOF -----
+dE1oDwmJSzi_nly3g2Hp7h1q1-XFVwhY4M93R4FQvQN6mh0s4HCzlYMk5MBXjI4F_Sejx8KmDEauAruFbiM0AA
+----- END CREV PROOF -----
+
