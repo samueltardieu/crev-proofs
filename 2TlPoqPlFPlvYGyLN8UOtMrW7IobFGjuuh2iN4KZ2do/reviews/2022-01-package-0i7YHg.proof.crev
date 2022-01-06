@@ -19,3 +19,25 @@ review:
 yCJ-FTWOMpb4luJ95DCIC90FsuYVPFemxqJuwSk8bVhItc_V5hZ6MZrhuIEblpRPvGVJC_z3u4lwV7A7LVM6Dg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-06T18:44:10.299913720+01:00"
+from:
+  id-type: crev
+  id: 2TlPoqPlFPlvYGyLN8UOtMrW7IobFGjuuh2iN4KZ2do
+  url: "https://github.com/samueltardieu/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: thiserror
+  version: 1.0.30
+  revision: 672e9525bbc2e5682c380d36974f34716b963591
+  digest: ZBJpXweQL87tgYzTupDCI-UxqE6nqpEVgpTil7pYJOI
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+----- SIGN CREV PROOF -----
+gI48UQ9VnKNLuBK1rZrDGwq_ilRhqTDJK8NiqCYrxyZMpILfDmXDY9ZapFsUfmnFEavS-vR3Q8uFehCMnB-kCQ
+----- END CREV PROOF -----
+
