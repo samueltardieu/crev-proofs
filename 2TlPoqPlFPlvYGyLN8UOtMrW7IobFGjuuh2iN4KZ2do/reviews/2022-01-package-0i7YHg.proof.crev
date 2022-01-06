@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-06T18:38:53.532999801+01:00"
+from:
+  id-type: crev
+  id: 2TlPoqPlFPlvYGyLN8UOtMrW7IobFGjuuh2iN4KZ2do
+package:
+  source: "https://crates.io"
+  name: itertools
+  version: 0.10.1
+  revision: 20c09bd4fed037fa3df6f2a6a1e717b01be89f11
+  digest: NKZrSyjImBoEypC-Vm63MyPTsifDlgH2oZPqsQ5kleI
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+----- SIGN CREV PROOF -----
+yCJ-FTWOMpb4luJ95DCIC90FsuYVPFemxqJuwSk8bVhItc_V5hZ6MZrhuIEblpRPvGVJC_z3u4lwV7A7LVM6Dg
+----- END CREV PROOF -----
+
